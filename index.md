@@ -1,3 +1,5 @@
+# 📜 AI & Crypto Research Log
+
 Welcome to the **Whale Strategy Research Log**, where we document our advancements in **AI-powered trading, staking platforms, smart contract development, and blockchain research**. This log tracks our ongoing progress and upcoming research areas.
 
 ---
