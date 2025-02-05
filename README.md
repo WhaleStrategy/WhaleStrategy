@@ -28,8 +28,8 @@ Check out our [Research Journal](./index.md) for AI development progress and pro
 
 ### 🔗 Connect With Us
 
-- 💼 **LinkedIn**: [Whale Strategy](https://www.linkedin.com/company/whalestrategy)
-- 🐦 **Twitter/X**: [@whalestrategy](https://twitter.com/whalestrategy)
+- 💼 **LinkedIn**: [Whale Strategy](https://www.linkedin.com/company/whale-strategy-co-ltd/posts/?feedView=all)
+- 🐦 **Facebook**: [@whalestrategy](https://www.facebook.com/whalestrategy)
 - 💬 **LINE**: [Join us on LINE](https://line.me/R/ti/p/@w._s)
 - 🔗 **More Links**: [Linktree](https://linktr.ee/WHALESTRATEGY)
 
