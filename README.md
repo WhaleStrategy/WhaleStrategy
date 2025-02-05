@@ -30,7 +30,7 @@ Check out our [Research Journal](./index.md) for AI development progress and pro
 
 - 💼 **LinkedIn**: [Whale Strategy](https://www.linkedin.com/company/whale-strategy-co-ltd/posts/?feedView=all)
 - 🐦 **Facebook**: [@whalestrategy](https://www.facebook.com/whalestrategy)
-- 💬 **LINE**: [Join us on LINE](https://line.me/R/ti/p/@w._s)
+- 💬 **LINE**: [Join us on LINE](https://line.me/R/ti/p/@w._.s)
 - 🔗 **More Links**: [Linktree](https://linktr.ee/WHALESTRATEGY)
 
 ## 🔧 How to Use This Repository
