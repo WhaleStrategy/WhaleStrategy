@@ -36,7 +36,7 @@ Check out our [Research Journal](./index.md) for AI development progress and pro
 
 ## 🔧 How to Use This Repository
 
-1. Visit **index.md(./index.md)** for research updates.
+1. Visit **[index.md](./index.md)** for research updates.
 2. Explore performance metrics and AI advancements.
 3. Contribute or provide feedback via issues and discussions.
 
