@@ -1,40 +1,44 @@
 <header>
 
-# AI-Powered Crypto Trading & Research
+# Whale Strategy - AI-Powered Crypto Trading & Blockchain Research
 
-_Developing advanced AI-driven trading strategies and blockchain solutions._
+_Whale Strategy Co. Ltd. is committed to professionalism, transparency, and compliance in the cryptocurrency sector._
 
 </header>
 
-## Welcome to My GitHub Pages Site
+## 🌊 About Whale Strategy
 
-This repository serves as a showcase of our AI-powered trading bots, staking platform development, and blockchain research. It will be continuously updated with insights, performance reports, and development logs related to our AI server and cryptocurrency projects.
+Whale Strategy is a leading innovator in AI-powered crypto trading, staking platforms, and blockchain technology. Our team develops automated trading bots and cutting-edge financial tools to enhance investment strategies.
 
-### 🚀 Project Overview
+📍 **Company Name**: Whale Strategy Co. Ltd.  
+📍 **Address**: No. 75, University 58th Street, Nanzi District, Kaohsiung, Taiwan  
+🌐 **Website**: [www.whalestrategy.net](https://www.whalestrategy.net/Home)  
+📧 **Email**: support@whalestrategy.net  
 
-- **AI Server**: High-performance AI models for crypto trading.
-- **Trading Strategies**: Automated bots for BTC & ETH.
-- **Staking Platform**: Integration with X Layer.
-- **Research & Development**: Ongoing improvements in AI-based financial predictions.
+## 🚀 Project Overview
+
+- **AI Server**: High-performance AI models for cryptocurrency trading.
+- **Automated Trading Bots**: Advanced strategies for BTC & ETH.
+- **Staking Platform**: Integration with X Layer and DeFi solutions.
+- **Blockchain Research**: Exploring AI-driven financial technologies.
 
 ## 📌 Latest Updates
 
 Check out our [Research Journal](./index.md) for AI development progress and project milestones.
 
-### 🔧 How to Use This Repository
+### 🔗 Connect With Us
 
-1. Visit the **index.md** file to see the latest research updates.
-2. Stay updated with performance metrics and strategy improvements.
-3. Contribute or provide feedback through issues and discussions.
+- 💼 **LinkedIn**: [Whale Strategy](https://www.linkedin.com/company/whalestrategy)
+- 🐦 **Twitter/X**: [@whalestrategy](https://twitter.com/whalestrategy)
+- 💬 **LINE**: [Join us on LINE](https://line.me/R/ti/p/@w._s)
+- 🔗 **More Links**: [Linktree](https://linktr.ee/WHALESTRATEGY)
 
-## 📞 Contact & Support
+## 🔧 How to Use This Repository
 
-For inquiries, collaborations, or troubleshooting, reach out via:
+1. Visit **index.md** for research updates.
+2. Explore performance metrics and AI advancements.
+3. Contribute or provide feedback via issues and discussions.
 
-- **GitHub Discussions**: [Join the conversation](https://github.com/orgs/skills/discussions/categories/github-pages)
-- **Company Website**: [Coming Soon]
-- **Twitter/X**: [@YourHandle]
+---
 
-&copy; 2025 Your Company Name &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+&copy; 2025 Whale Strategy Co. Ltd. &bull; [MIT License](https://gh.io/mit)
