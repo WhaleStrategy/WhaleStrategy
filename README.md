@@ -6,7 +6,6 @@ _Whale Strategy Co. Ltd. is committed to professionalism, transparency, and comp
 
 </header>
 
-my-pages
 ## 🌊 About Whale Strategy
 
 Whale Strategy is a leading innovator in AI-powered crypto trading, staking platforms, and blockchain technology. Our team develops automated trading bots and cutting-edge financial tools to enhance investment strategies.
