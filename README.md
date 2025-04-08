@@ -1,4 +1,12 @@
 <header>
+  
+# Whale Venture – On-Chain DeFi Infrastructure & Innovation
+
+</header>
+
+Whale Venture is a community-governed, on-chain organization driving open development in DeFi and AI-powered crypto tools. It leads and manages projects like WStaking, a decentralized staking platform. While Whale Venture collaborates with Whale Strategy on technology, Whale Strategy Co. Ltd. operates independently and does not receive funding from Whale Venture.
+
+<header>
 
 # Whale Strategy - AI-Powered Crypto Trading & Blockchain Research
 
